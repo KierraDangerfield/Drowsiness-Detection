@@ -9,7 +9,7 @@ Car companies can develop a drowsiness detection in their vehicles to alert driv
 
 1. Data
 <li>
-  <a href="https://www.kaggle.com/datasets/serenaraju/yawn-eye-dataset-new" target="_blank">Original Data</a>
+  <a target="_blank" href="https://www.kaggle.com/datasets/serenaraju/yawn-eye-dataset-new">Original Data</a>
 </li>
 <br/>
 
@@ -18,19 +18,19 @@ Car companies can develop a drowsiness detection in their vehicles to alert driv
 <p>For the modeling section I split the modeling into two models. The Closd/Open model is based on if someone's eyes are closed or open. The Yawn/No Yawn is based on if a driver is yawning or not.</p>
 
 <li>
-  <a href="https://colab.research.google.com/drive/1m0rRAEUQk-uQOinsylP1VhAb_nEygt93?usp=share_link" target="_blank">EDA</a>
+  <a target="_blank" href="https://colab.research.google.com/drive/1m0rRAEUQk-uQOinsylP1VhAb_nEygt93?usp=share_link">EDA</a>
 </li>
 
 <li>
-  <a href="https://colab.research.google.com/drive/1LW60xFMregaeZaMWetQ0lYGGvadWcL86?usp=sharing" target="_blank">Preprocessing</a>
+  <a target="_blank" href="https://colab.research.google.com/drive/1LW60xFMregaeZaMWetQ0lYGGvadWcL86?usp=sharing">Preprocessing</a>
 </li>
 
 <li>
-  <a href="https://drive.google.com/drive/folders/1Wv5ap6o0ctLdbwu7gD53_hoCd1JiRP9I?usp=share_link" target="_blank">Modeling: Yawn/No Yawn</a>
+  <a target="_blank" href="https://drive.google.com/drive/folders/1Wv5ap6o0ctLdbwu7gD53_hoCd1JiRP9I?usp=share_link">Modeling: Yawn/No Yawn</a>
 </li>
 
 <li>
-  <a href="https://drive.google.com/drive/folders/11PnWShkvGYwmrZkAo3rRnkleSUrDDQvo?usp=share_link" target="_blank">Modeling: Closed/Open</a>
+  <a target="_blank" href="https://drive.google.com/drive/folders/11PnWShkvGYwmrZkAo3rRnkleSUrDDQvo?usp=share_link">Modeling: Closed/Open</a>
 </li>
 <br/>
 
